@@ -31,15 +31,4 @@ The data used in the dashboard is summarized as follows:
 
 To use this dashboard, simply view the provided image file (`superstore_snapshot.png`) to see the visualizations and key metrics. This snapshot can be used for quick reference or analysis of the superstore's performance.
 
-## Contributing
 
-If you have any suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request. We welcome contributions to enhance the dashboard's functionality and visual appeal.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the team for providing the data and insights.
-- Special thanks to the contributors who helped in creating and refining the dashboard.
